@@ -1,9 +1,9 @@
 var katzDeliLine = [] ;
 
-function takeANumber (katzDeliLine, Ada) {
+function takeANumber (katzDeliLine, name) {
   var position = katzDeliLine.length+1;
-  katzDeliLine.push(Ada)
-  return "Welcome, Ada. You are number 1 in line."
+  katzDeliLine.push(name)
+  return "Welcome, " + name +". "You are number" " + position +"" in line."
   
   
   
