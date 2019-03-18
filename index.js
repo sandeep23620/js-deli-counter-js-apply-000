@@ -9,4 +9,8 @@ function takeANumber (katzDeliLine, name) {
 
 function nowServing (katzDeliLine){
   var = name;
+  
+  if (katzDeliLine == 0){
+    return ""
+  }
 }
