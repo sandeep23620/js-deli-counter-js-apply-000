@@ -1,5 +1,8 @@
-var katzDeliLine = [];
-Function takeANumber(katzDeliLine, Ada) {
+var katzDeliLine = [] ;
+
+function takeANumber (katzDeliLine, Ada) {
+  
+  
   
   
   
